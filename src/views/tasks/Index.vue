@@ -1,5 +1,5 @@
 <template>
-  <h1>Tasks</h1>
+  <h1 data-test-id="tasks-title">Tasks</h1>
 </template>
 
 <script setup lang="ts"></script>
