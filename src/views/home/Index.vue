@@ -1,5 +1,5 @@
 <template>
-  <div class="px-6 py-8">
+  <div class="">
     <div class="max-w-4xl mx-auto">
       <div class="bg-white rounded-3xl p-8 mb-5">
         <h1 class="text-3xl font-bold mb-10">Messaging ID framework development for the marketing branch</h1>
