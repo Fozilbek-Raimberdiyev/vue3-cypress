@@ -1,5 +1,5 @@
 <template>
-  <div>Tasks home page</div>
+  <h1>Tasks</h1>
 </template>
 
 <script setup lang="ts"></script>
