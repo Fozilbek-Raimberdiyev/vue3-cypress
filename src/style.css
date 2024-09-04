@@ -1,0 +1,7 @@
+@import url("./assets/css/tailwind.scss");
+@import url("./assets/css/fonts/roboto.scss");
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
