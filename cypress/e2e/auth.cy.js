@@ -1,4 +1,4 @@
-describe("template spec", () => {
+describe("submit login form and navigating to dashboard page", () => {
   it("passes", () => {
     // const baseUrl = Cypress.env("baseUrl");
     cy.visit("auth/login");
@@ -9,6 +9,6 @@ describe("template spec", () => {
 
     cy.get("#auth_submit_btn").click();
 
-    cy.url().should("include", '/');
+    cy.url().should("include", "/");
   });
 });
